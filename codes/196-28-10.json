@@ -1397,6 +1397,8 @@
   ],
   "date": "2026-11-21",
   "origin": "submission",
-  "construction": "Pair-partition CPM CSS code (Okada-Kasai, arXiv:2607.14091) on the 6x14 check-weight-6 template with cyclic lift P=14 (Z_14), n=14P=196, k=2P=28, design rate 1/7. H^1 cocycle coeffs=[2, 13, 4]. X0: 0:8 1:0 2:9 4:0 5:0 12:0; X1: 0:0 2:6 3:8 5:10 7:10 13:0; X2: 1:5 2:4 4:1 8:0 9:10 10:0; X3: 3:3 4:4 6:10 7:0 9:4 10:0; X4: 5:12 6:2 7:2 11:12 12:2 13:0; X5: 8:0 9:1 10:4 11:4 12:0 13:0; Z0: 0:0 1:6 2:5 3:7 5:10 6:0; Z1: 0:13 2:0 3:7 7:4 8:10 11:0; Z2: 0:0 3:0 4:6 7:2 9:1 13:0; Z3: 1:0 4:10 5:10 6:2 12:0 13:0; Z4: 4:0 6:0 8:13 9:0 10:4 12:0; Z5: 5:0 7:0 8:0 10:0 11:0 12:0. Exhaustive search over all 14^3 H^1(Z_14) classes; every check has exact weight 6."
+  "construction": "Pair-partition CPM CSS code (Okada-Kasai, arXiv:2607.14091) on the 6x14 check-weight-6 template with cyclic lift P=14 (Z_14), n=14P=196, k=2P=28, design rate 1/7. H^1 cocycle coeffs=[2, 13, 4]. X0: 0:8 1:0 2:9 4:0 5:0 12:0; X1: 0:0 2:6 3:8 5:10 7:10 13:0; X2: 1:5 2:4 4:1 8:0 9:10 10:0; X3: 3:3 4:4 6:10 7:0 9:4 10:0; X4: 5:12 6:2 7:2 11:12 12:2 13:0; X5: 8:0 9:1 10:4 11:4 12:0 13:0; Z0: 0:0 1:6 2:5 3:7 5:10 6:0; Z1: 0:13 2:0 3:7 7:4 8:10 11:0; Z2: 0:0 3:0 4:6 7:2 9:1 13:0; Z3: 1:0 4:10 5:10 6:2 12:0 13:0; Z4: 4:0 6:0 8:13 9:0 10:4 12:0; Z5: 5:0 7:0 8:0 10:0 11:0 12:0. Exhaustive search over all 14^3 H^1(Z_14) classes; every check has exact weight 6.",
+  "model": "Gemini 4 Neon",
+  "harness": "Cybara"
  }
 }
